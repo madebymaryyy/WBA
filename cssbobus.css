@@ -1,0 +1,31 @@
+.h1 {
+    text-align: center;
+    color: whitesmoke;
+    background-color: blue;
+    font-size: 200%;
+}
+
+.firstparagraph {
+    text-align: left;
+    color: grey;
+    font-size: 30px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 80%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+}
+
+.list {
+    text-align: left;
+    color: grey;
+    font-size: 30px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 80%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagessps {
+    float: right;
+}
